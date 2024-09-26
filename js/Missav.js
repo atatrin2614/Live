@@ -2,7 +2,7 @@ var rule = {
     title:'Missav',
     host:'https://missav.com',
 	searchUrl:'/cn/search/**',
-    url:'/cn/fyclass?page=fypage',
+    url:'/dm32?localized=1',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
