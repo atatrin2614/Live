@@ -1,6 +1,6 @@
 。var rule = {
     title:'Missav',
-    host:'https://missav.com',
+    host:'https://missav.com/',
 	searchUrl:'/cn/search/**',
     url:'/dm32',
     headers:{
