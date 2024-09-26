@@ -2,7 +2,7 @@
     title:'Missav',
     host:'https://missav.com',
 	searchUrl:'/cn/search/**',
-    url:'/dm32?localized=1',
+    url:'/dm32',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
