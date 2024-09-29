@@ -1,8 +1,8 @@
 。var rule = {
     title:'Missav',
     host:'https://missav.com/',
+    homeUrl:'https://missav.com/dm32/',
 	searchUrl:'/cn/search/**',
-    url:'dm32/',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
